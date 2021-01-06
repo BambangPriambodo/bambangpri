@@ -1,5 +1,5 @@
 ---
-title: "Sekolahitucandu"
+title: "Sekolah Itu Candu"
 date: 2021-01-06T21:16:01+07:00
 category: [celoteh, tulisan, resensi]
 tags: [uraian]
