@@ -7,7 +7,6 @@ draft: false
 discuss: false
 ---
 
-# Sekolah Itu Candu
 Penulis : Roem Topatimasang
 
 Memulai tahun 2021, sepertinya buku ini sangat cocok untuk dibaca dan dipahami maksud dan tujuan penulis menjabarkan tentang realitas sekolah. Banyak dari materi dalam buku ini ditulis pada tahun 1980 tapi dirasa masih saja relevan dengan kondisi sekarang ini.
